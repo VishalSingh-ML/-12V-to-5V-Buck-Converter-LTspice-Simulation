@@ -25,7 +25,7 @@ Design and validate a Buck Converter with:
 
 ### 🔧 Tools Used:
 - LTspice (Analog Devices)
-- Windows 10/11
+- Windows 10
 
 ---
 ### 🧠Note:
